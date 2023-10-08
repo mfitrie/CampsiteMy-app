@@ -1,0 +1,1255 @@
+{
+    "campsiteMY": [
+      {
+        "state": "PERLIS",
+        "places": [
+          {
+            "place": "BBC Campsite, Kangar, Perlis",
+            "phoneNumber": "017 592 7576"
+          },
+          {
+            "place": "Campsite hujan-hujan, Gua kelam, Perlis",
+            "phoneNumber": "011 5651 9091"
+          },
+          {
+            "place": "Nakawan Base Camp, Kangar Perlis",
+            "phoneNumber": "014 523 4301"
+          },
+          {
+            "place": "Kelab Sahabat BJ (Campsite Sahabat BJ Perlis)",
+            "phoneNumber": "012 502 0102"
+          },
+          {
+            "place": "Santuari Ikan Air Tawar, Timah Tasoh",
+            "phoneNumber": "011 5760 0702"
+          }
+        ]
+      },
+      {
+        "state": "KEDAH",
+        "places": [
+          {
+            "place": "Perangin Campsite Tanjung Jaga, Yan",
+            "phoneNumber": "011 3052 4362"
+          },
+          {
+            "place": "Dusun Lata Bayu Campsite, Baling",
+            "phoneNumber": "013 441 9723"
+          },
+          {
+            "place": "Kampung Lanai, 09100 Baling",
+            "phoneNumber": "013-365 0140"
+          },
+          {
+            "place": "Kampung Bukit Rawa, Karangan",
+            "phoneNumber": "013 440 0464"
+          },
+          {
+            "place": "Lubuk Terap Campsite, Baling",
+            "phoneNumber": "019 412 8713"
+          },
+          {
+            "place": "Teratak Simpul, Baling",
+            "phoneNumber": "013 513 8487"
+          },
+          {
+            "place": "KIF Campsite Baling",
+            "phoneNumber": "014 582 4823"
+          },
+          {
+            "place": "Jasa Campsite Yan Kedah"
+          },
+          {
+            "place": "Caribbean Beach Campsite, Kg Ruat, Yan",
+            "phoneNumber": "010 798 8816"
+          },
+          {
+            "place": "Alfariq Campsite, Kg Raga, Yan",
+            "phoneNumber": "017 412 6273"
+          },
+          {
+            "place": "Pawana Jerai Resort, Kg Ruat, Yan",
+            "phoneNumber": "019 630 4799"
+          },
+          {
+            "place": "Ulu Legong Campsite, Baling",
+            "phoneNumber": "012 717 4923 / 019 297 0181"
+          },
+          {
+            "place": "Pam Tokdin Campsite, Weng, Baling",
+            "phoneNumber": "019 965 3295"
+          },
+          {
+            "place": "Damai D'Lubuk Badak, Kuala Kedua, Ulu Legong, Baling",
+            "phoneNumber": "011 4072 9401"
+          },
+          {
+            "place": "D Bamboo Park, Lubuk Legong Baling",
+            "phoneNumber": "013 441 7197 / 019 521 4297"
+          },
+          {
+            "place": "Air Jungle Campsite, Kg Kuala Kedua, Baling",
+            "phoneNumber": "019 458 6706"
+          },
+          {
+            "place": "La Botanica Lanai, Kg Lanai, Baling",
+            "phoneNumber": "013 365 0140"
+          },
+          {
+            "place": "D’Puncak Bris Lake Resort, Tasik Beris, Sik",
+            "phoneNumber": "013 429 0084"
+          },
+          {
+            "place": "Sri Ternas Resort Tasik Beris, Sik",
+            "phoneNumber": "017 3021 730"
+          },
+          {
+            "place": "KEDA Resort, Kg Bendang Man, Sik",
+            "phoneNumber": "011 6573 1009 / 013 936 0369"
+          },
+          {
+            "place": "Lubok Jong Campsite Sedim, Karangan, Kulim",
+            "phoneNumber": "014 307 6809 / 011 3381 8142 / 016 488 4408"
+          },
+          {
+            "place": "Anjung Sireh, Sedim, Karangan Kulim",
+            "phoneNumber": "010 277 5202 / 019 511 8034"
+          },
+          {
+            "place": "Hibiscus Sedim, Lubuk Buluh, Karangan, Kulim",
+            "phoneNumber": "014 239 6573"
+          },
+          {
+            "place": "Warisan Desa Campsite, Sedim",
+            "phoneNumber": "019 406 1983"
+          },
+          {
+            "place": "Sedim Riverside Resort, Karangan, Kulim",
+            "phoneNumber": "012 600 2267"
+          },
+          {
+            "place": "UDA Sedim Camp & Recreational Site, Lubuk Buluh, Sedim",
+            "phoneNumber": "017 563 8947"
+          },
+          {
+            "place": "Campsite Sungai Riau, Sg Sedim, Karangan, Kulim",
+            "phoneNumber": "013 464 0471"
+          },
+          {
+            "place": "Laman Teduh Campsite, Sg Sedim, Karangan, Kulim",
+            "phoneNumber": "019 400 1379"
+          },
+          {
+            "place": "Ranting-Ranting Campsite, Kg Rawa Sedim",
+            "phoneNumber": "012 448 6642"
+          },
+          {
+            "place": "Pak Chan Campsite, Sedim",
+            "phoneNumber": "016 461 6391"
+          },
+          {
+            "place": "Zakinani Campsite, Sedim",
+            "phoneNumber": "019 476 3832"
+          },
+          {
+            "place": "Lubuk Lekok Camping Site, Kuala Ketil",
+            "phoneNumber": "016 692 2783"
+          },
+          {
+            "place": "Combat Campsite, Lubuk Petai, Kg Bukit Rawa, Sedim",
+            "phoneNumber": "010 913 7187 / 013 538 2829"
+          },
+          {
+            "place": "Har Restu Campsite, Kg Perik, Kuala Nerang",
+            "phoneNumber": "019 573 6065 / 019 470 6115"
+          },
+          {
+            "place": "Campsite Desa Mak Piah, Perik, Kuala Nerang",
+            "phoneNumber": "013 5929 484"
+          },
+          {
+            "place": "Camping@Permaipura, Bidong",
+            "phoneNumber": "016 491 0330"
+          },
+          {
+            "place": "Izzara Campsite, Sedim",
+            "phoneNumber": "012 412 1343 / 011 5766 2894"
+          },
+          {
+            "place": "Jerai Hill Resort, Jln Kaki Bukit, Yan",
+            "phoneNumber": "014 242 1752"
+          },
+          {
+            "place": "Langkawi Island Campsite, Kuala Teriang",
+            "phoneNumber": "019 341 9171"
+          },
+          {
+            "place": "Langkawi Kilim Geopark Camping (Langkawi Adventure & Extreme Park)",
+            "phoneNumber": "019 474 6460 / 017 775 6460"
+          }
+        ]
+      },
+      {
+        "state": "PULAU PINANG",
+        "places": [
+          {
+            "place": "The Hill Relaxing Camp, Balik Pulau Pulau Pinang",
+            "phoneNumber": "012 473 1037"
+          },
+          {
+            "place": "Discovery Agarwood Research, Balik Pulau Pulau Pinang",
+            "phoneNumber": "010 203 8151"
+          },
+          {
+            "place": "Hillside Retreat, Penang Hill Pulau Pinang",
+            "phoneNumber": "019 885 8951"
+          },
+          {
+            "place": "Tropical Spice Garden, Georgetown Pulau Pinang",
+            "phoneNumber": "012 423 6797"
+          }
+        ]
+      },
+      {
+        "state": "PERAK",
+        "places": [
+          {
+            "place": "Dusun d’Kongso, Padang Rengas Perak",
+            "phoneNumber": "012 343 6891"
+          },
+          {
+            "place": "Amazing Camp Legacy (Veteran VAT69), Lenggong, Perak",
+            "phoneNumber": "016 600 0710"
+          },
+          {
+            "place": "Air Beruk Campsite, Gerik Perak",
+            "phoneNumber": "017 367 5447"
+          },
+          {
+            "place": "Tento DePalma Sahom, Kampar Perak",
+            "phoneNumber": "017 462 5063"
+          },
+          {
+            "place": "Bernam Nature Hut, Tanjung Malim, Perak",
+            "phoneNumber": "018 360 2728"
+          },
+          {
+            "place": "Pos Kuala Mu, Sungai Siput Perak",
+            "phoneNumber": "011 1511 7527"
+          },
+          {
+            "place": "GreenStone Campsite, Padang Rengas Perak",
+            "phoneNumber": "019 755 7595"
+          },
+          {
+            "place": "Denai Kabus Agro Farm and Adventure Resort, Gerik Perak",
+            "phoneNumber": "019 526 1775"
+          },
+          {
+            "place": "Rock Garden Camping Resort, Gopeng Perak",
+            "phoneNumber": "019 380 6630"
+          },
+          {
+            "place": "Camp Site Riverine Nature Camp Lenggong Perak",
+            "phoneNumber": "019 333 8670"
+          },
+          {
+            "place": "Riverside Camp, Gopeng Perak",
+            "phoneNumber": "014 294 4404"
+          },
+          {
+            "place": "Outworld White Water Center & Basecamp, Gopeng Perak",
+            "phoneNumber": "017 215 1409"
+          },
+          {
+            "place": "Murni Camp Gopeng, Gopeng",
+            "phoneNumber": "012 510 5649"
+          },
+          {
+            "place": "Kem Rekreasi Intan Suraya, Sungai Siput Perak",
+            "phoneNumber": "019 558 4599"
+          },
+          {
+            "place": "Tree Tent Campsite Gopeng Perak",
+            "phoneNumber": "019 460 4612"
+          },
+          {
+            "place": "Buyong Mas Sanctuary Campsite Sg Klah Sungkai Perak",
+            "phoneNumber": "018 789 6798"
+          },
+          {
+            "place": "Wham Farm Tanjung Malim Perak",
+            "phoneNumber": "016 436 3463"
+          },
+          {
+            "place": "D’KCC Recreation & Rehlah Centre Gerik Perak",
+            "phoneNumber": "013 521 9956"
+          },
+          {
+            "place": "Draco Nature Camp Chenderiang Perak",
+            "phoneNumber": "014 669 6207"
+          },
+          {
+            "place": "Etaman Dusun Stay Tanjung Malim Perak",
+            "phoneNumber": "019 246 5024"
+          },
+          {
+            "place": "Masbro Hidden Village Lenggong Perak",
+            "phoneNumber": "012 377 5005"
+          },
+          {
+            "place": "UPUBG Camp, Gopeng Perak",
+            "phoneNumber": "017 526 2077"
+          },
+          {
+            "place": "Ecotourism RISDA Eco Park Simpang Perak",
+            "phoneNumber": "019 424 7376"
+          },
+          {
+            "place": "Outworld Rafting & Basecamp Gopeng Perak",
+            "phoneNumber": "017 215 1409"
+          },
+          {
+            "place": "Amazing Camp Legacy: Legends By Nature Lenggong Perak",
+            "phoneNumber": "019 600 0710"
+          },
+          {
+            "place": "Camp Site Riverine Nature Camp Lenggong Perak",
+            "phoneNumber": "019 333 8670"
+          },
+          {
+            "place": "The Hideout Gopeng Perak",
+            "phoneNumber": "012 408 6462"
+          },
+          {
+            "place": "Tok Bak Campsite tanjung Malim Perak",
+            "phoneNumber": "012 219 8946"
+          },
+          {
+            "place": "Air Beruk Campsite, Gerik Perak",
+            "phoneNumber": "017 367 5447"
+          },
+          {
+            "place": "Kg.Poh Campsite, Bidor Perak",
+            "phoneNumber": "019 370 9459"
+          },
+          {
+            "place": "ND-Survival Campsite Gerik Perak",
+            "phoneNumber": "012 596 6162"
+          },
+          {
+            "place": "Inap Kasih Malim, Tanjung Malim Perak",
+            "phoneNumber": "017 678 4692"
+          },
+          {
+            "place": "Lubuk Petai Campsite kampar Perak",
+            "phoneNumber": "011 3346 2551"
+          },
+          {
+            "place": "Wildrock Campsite Kuala Kangsar Perak",
+            "phoneNumber": "018 918 4990"
+          },
+          {
+            "place": "Uzeer Puteh Campsite, Batu Kurau Perak",
+            "phoneNumber": "011 3572 3807"
+          },
+          {
+            "place": "Behrang Camp De Orchard Tanjung Malim Perak",
+            "phoneNumber": "012 899 7390"
+          },
+          {
+            "place": "Selama Beach Campsite Selama Perak",
+            "phoneNumber": "011 4065 7810"
+          },
+          {
+            "place": "Camp Site Pak Abas Gopeng Perak",
+            "phoneNumber": "017 357 2245"
+          },
+          {
+            "place": "Fruit Farm Camp, Perak",
+            "phoneNumber": "013 222 8362"
+          },
+          {
+            "place": "Refarm Temoh Perak",
+            "phoneNumber": "012 502 6115"
+          },
+          {
+            "place": "Aziz D’rimba Chalet Campsite Gopeng Perak",
+            "phoneNumber": "011 5973 6747"
+          },
+          {
+            "place": "Camping Site Kebun Atok Gonen Gopeng Perak",
+            "phoneNumber": "011 1246 6509"
+          },
+          {
+            "place": "WildCampsite Pak Mus MCO, Tanjung Malim Perak",
+            "phoneNumber": "017 331 1487"
+          },
+          {
+            "place": "Tento DePalma Sahom Kampar Perak",
+            "phoneNumber": "017 462 5063"
+          }
+        ]
+      },
+      {
+        "state": "SELANGOR",
+        "places": [
+          {
+            "place": "Cahaya Warisan CampGround, Hulu Langat, Selangor",
+            "phoneNumber": "011 5651 9091"
+          },
+          {
+            "place": "Buloh Perindu Campsite, Kuala Kubu Bharu Selangor",
+            "phoneNumber": "010 7969 188"
+          },
+          {
+            "place": "Intan Puteri Eco Farm, Batang Kali Selangor",
+            "phoneNumber": "013 339 6918"
+          },
+          {
+            "place": "D Pangsun River, Hulu Langat Selangor",
+            "phoneNumber": "018 661 3937"
+          },
+          {
+            "place": "Ijam Campsite, Hulu Langat Selangor",
+            "phoneNumber": "013 809 9849"
+          },
+          {
+            "place": "Teratak Tok Alang Batang Kali Selangor",
+            "phoneNumber": "019 303 2021"
+          },
+          {
+            "place": "Rumah Kebun Camping Ground Hulu Langat Selangor",
+            "phoneNumber": "019 222 4956"
+          },
+          {
+            "place": "Moon Kiss Camp Site Hulu Langat Selangor",
+            "phoneNumber": "013 773 4957"
+          },
+          {
+            "place": "Alpine Camp Hulu Langat Selangor",
+            "phoneNumber": "011 1156 5575"
+          },
+          {
+            "place": "Sungai Congkak Recreational Forest",
+            "phoneNumber": "019 399 8246"
+          },
+          {
+            "place": "Resort Taman RImba Komanwel",
+            "phoneNumber": "012 276 1609"
+          },
+          {
+            "place": "Hammock by The River",
+            "phoneNumber": "012 940 1174"
+          },
+          {
+            "place": "The Nest MAEPS Serdang",
+            "phoneNumber": "012 325 3198"
+          },
+          {
+            "place": "Hutlista 2",
+            "phoneNumber": "019 878 0086"
+          },
+          {
+            "place": "GIBS Ecotourism Resort",
+            "phoneNumber": "011 3278 8285"
+          },
+          {
+            "place": "The Hid3Out Ulu Yam Selangor",
+            "phoneNumber": "011 1281 1725"
+          },
+          {
+            "place": "UbiPadi Leisure Hulu Langat Selangor",
+            "phoneNumber": "019 777 8590"
+          },
+          {
+            "place": "Anugerah Alam Campsite, Semenyih",
+            "phoneNumber": "016 715 6357"
+          },
+          {
+            "place": "GG Retreat at Bukit Tasik Serendah Selangor",
+            "phoneNumber": "011 3311 7455"
+          },
+          {
+            "place": "Willow Tree Campsite Hulu Langat Selangor",
+            "phoneNumber": "016 303 4307"
+          },
+          {
+            "place": "Damai Riverview Hulu Langat Selangor",
+            "phoneNumber": "019 335 5876"
+          },
+          {
+            "place": "Kem The Woods Batang Kali Selangor",
+            "phoneNumber": "019 244 5312"
+          },
+          {
+            "place": "OrangOrangArt Cafe Camp Sungai Besar Selangor",
+            "phoneNumber": "012 276 0585"
+          },
+          {
+            "place": "RIver Garden Kerling Selangor",
+            "phoneNumber": "011 1506 5839"
+          },
+          {
+            "place": "Hulu Tamu Eco Resort Batang Kali Selangor",
+            "phoneNumber": "018 311 0608"
+          },
+          {
+            "place": "Flinstone Chalet Ulu Yam Selangor",
+            "phoneNumber": "017 326 3116"
+          },
+          {
+            "place": "KV @ Kemensah Valley Recreation and Conservation Area",
+            "phoneNumber": "016 979 7100"
+          },
+          {
+            "place": "Habitual Café Campsite, Kuala Kubu Bharu Selangor",
+            "phoneNumber": "011 1669 5710"
+          },
+          {
+            "place": "Kemahiran Hutan, Bukit Cerakah Selangor",
+            "phoneNumber": "011 2350 3001"
+          },
+          {
+            "place": "Kota Warisan Selangor",
+            "phoneNumber": "012 377 4634"
+          },
+          {
+            "place": "Tasik DULANGAN Campsite",
+            "phoneNumber": "017 323 9995"
+          },
+          {
+            "place": "Alamanda Sports Resort",
+            "phoneNumber": "016 351 3135"
+          },
+          {
+            "place": "Gurindam Camping Ground Hulu Langat Selangor",
+            "phoneNumber": "017 228 3709"
+          },
+          {
+            "place": "Green Humming Bird Hulu Langat Selangor",
+            "phoneNumber": "019 754 7994"
+          },
+          {
+            "place": "Camp 77 Kuala Kubu Bharu Selangor",
+            "phoneNumber": "013 531 5001"
+          },
+          {
+            "place": "The Rainforest Hulu Langat Selangor",
+            "phoneNumber": "017 899 9709"
+          },
+          {
+            "place": "Forest Valley Ulu Yam Selangor",
+            "phoneNumber": "012 348 7360"
+          },
+          {
+            "place": "MNS Campsite, Kuala Selangor Selangor",
+            "phoneNumber": "011 1669 5710"
+          },
+          {
+            "place": "Bukit Subang Campground",
+            "phoneNumber": "017 234 8843"
+          },
+          {
+            "place": "Eco Cheras Campground",
+            "phoneNumber": "011 2348 3324"
+          },
+          {
+            "place": "Janda Baik Campsite",
+            "phoneNumber": "017 655 9463"
+          },
+          {
+            "place": "Raub Lata Makau Camping Site",
+            "phoneNumber": "017 686 8442"
+          },
+          {
+            "place": "Kem Rimba Semai KKB Selangor",
+            "phoneNumber": "018 210 8354"
+          },
+          {
+            "place": "Camping Place Sungai Pening",
+            "phoneNumber": "019 613 6806"
+          },
+          {
+            "place": "River Bug Adventures",
+            "phoneNumber": "016 665 1828"
+          },
+          {
+            "place": "Kem Lesung Batu",
+            "phoneNumber": "017 214 5338"
+          },
+          {
+            "place": "Camp Zone 2 Kuala Kubu Bharu Selangor",
+            "phoneNumber": "011 3311 7455"
+          },
+          {
+            "place": "Jenjarom Camping Ground",
+            "phoneNumber": "017 283 2441"
+          },
+          {
+            "place": "Sungai Tengi Campsite",
+            "phoneNumber": "011 3915 2083"
+          },
+          {
+            "place": "Kem Mah Sing Batu Caves Selangor",
+            "phoneNumber": "012 386 4961"
+          },
+          {
+            "place": "Bintang Village Campground",
+            "phoneNumber": "019 778 0636"
+          },
+          {
+            "place": "Tasik DULANGAN Campsite Selangor",
+            "phoneNumber": "017 323 9995"
+          },
+          {
+            "place": "Crazy Monkey Camp",
+            "phoneNumber": "019 284 2002"
+          },
+          {
+            "place": "Sungai Congkak Campsite",
+            "phoneNumber": "019 282 8080"
+          },
+          {
+            "place": "Camp Sapi Selangor",
+            "phoneNumber": "018 665 0003"
+          },
+          {
+            "place": "Kem Inovatif, Kem Pelangi, Semenyih",
+            "phoneNumber": "017 200 1608"
+          },
+          {
+            "place": "Kampung Kemensah Campground",
+            "phoneNumber": "016 979 7100"
+          },
+          {
+            "place": "Camp 5 Hulu Langat Selangor",
+            "phoneNumber": "019 339 2992"
+          },
+          {
+            "place": "Inovasi Camp, Bukit Beruntung Selangor",
+            "phoneNumber": "012 522 0839"
+          },
+          {
+            "place": "Campzone 3 Kuala Kubu Bharu Selangor",
+            "phoneNumber": "011 3311 7455"
+          },
+          {
+            "place": "Sungai Pertak Campground",
+            "phoneNumber": "013 635 1438"
+          },
+          {
+            "place": "G-Plus Recreational Park, Taman Tasik Titiwangsa, KL",
+            "phoneNumber": "019 666 7045"
+          },
+          {
+            "place": "Kem Ranum, Hulu Selangor",
+            "phoneNumber": "013 622 8853"
+          },
+          {
+            "place": "Ariesta Holiday Campsite, Janda Baik",
+            "phoneNumber": "017 655 9463"
+          },
+          {
+            "place": "Kem Merbok, Kuala Kubu Bharu Selangor",
+            "phoneNumber": "011 1357 0460"
+          },
+          {
+            "place": "Mangrove Swamp Park, Sekinchan Selangor",
+            "phoneNumber": "016 601 3152"
+          },
+          {
+            "place": "Pintasan Camp, Gombak Selangor",
+            "phoneNumber": "013 382 3660"
+          },
+          {
+            "place": "The Camp 3 Sungai Congkak Hulu Langat Selangor",
+            "phoneNumber": "013 903 0911"
+          },
+          {
+            "place": "The Dusun Serendah Selangor",
+            "phoneNumber": "019 252 3227"
+          },
+          {
+            "place": "Adventure Sabai Semenyih Selangor",
+            "phoneNumber": "012 673 6675"
+          },
+          {
+            "place": "Perangsang Templer Golf Club",
+            "phoneNumber": "012 336 1196"
+          },
+          {
+            "place": "Nature Education Centre (NEC), FRIM Kepong",
+            "phoneNumber": "019 357 4934"
+          },
+          {
+            "place": "Kem Bina Negara Jalan Ampang, Selangor",
+            "phoneNumber": "03 4257 2942"
+          },
+          {
+            "place": "Sg Buaya Kem Bina Negara, Rawang Selangor",
+            "phoneNumber": "03 6091 5346"
+          },
+          {
+            "place": "Campsites @ Paya Indah Wetlands Dengkil Selangor",
+            "phoneNumber": "019 317 3150"
+          },
+          {
+            "place": "Kem PLKN Hutan Lipur Lembah Kiara, TTDI",
+            "phoneNumber": "03 7725 7114"
+          },
+          {
+            "place": "Tahana Outdoors, Sg Buloh Selangor",
+            "phoneNumber": "013 265 5071"
+          },
+          {
+            "place": "Taman Rekreasi Empangan Kuala Kubu Bharu Selangor",
+            "phoneNumber": "019 325 7326"
+          },
+          {
+            "place": "Kem PLKN Bukit Kubu, Lembah Kiara TTDI",
+            "phoneNumber": "03 7726 3777"
+          },
+          {
+            "place": "Kem Hutan Lipur Ampang",
+            "phoneNumber": "03 4107 5015"
+          },
+          {
+            "place": "Kem Bina Negara, Batang Kali",
+            "phoneNumber": "03 6091 5346"
+          },
+          {
+            "place": "Tasik Biru Kundang, Rawang",
+            "phoneNumber": "011 3183 0001"
+          },
+          {
+            "place": "Sg Serai Waterfall Campsite, Ampang",
+            "phoneNumber": "013 395 1875"
+          },
+          {
+            "place": "Kem Bina Negara, Ampang",
+            "phoneNumber": "03 6091 5346"
+          },
+          {
+            "place": "Sg Gabai Waterfall Campsite, Hulu Langat",
+            "phoneNumber": "03 4256 7489"
+          },
+          {
+            "place": "Taman Rimba Komanwel, Sungai Buloh",
+            "phoneNumber": "019 317 3150"
+          },
+          {
+            "place": "Raub Lata Makau Camping Site, Selangor",
+            "phoneNumber": "017 686 8442"
+          }
+        ]
+      },
+      {
+        "state": "NEGERI SEMBILAN",
+        "places": [
+          {
+            "place": "H&N Campsite, Port Dickson Negeri Sembilan",
+            "phoneNumber": "013 722 5633"
+          },
+          {
+            "place": "Yaka Campsite, Lenggeng Negeri Sembilan",
+            "phoneNumber": "016 331 9659"
+          },
+          {
+            "place": "D Kok Eco Camp, Tanjung Ipoh Negeri Sembilan",
+            "phoneNumber": "013 237 7228"
+          },
+          {
+            "place": "Bonda Campsite, Sepri, Rembau Negeri Sembilan",
+            "phoneNumber": "019 221 8636"
+          },
+          {
+            "place": "Payo Campsite Kampung Renggoh Negeri Sembilan",
+            "phoneNumber": "010 426 1003"
+          },
+          {
+            "place": "Taman Negeri Kenaboi Negeri Sembilan",
+            "phoneNumber": "06 136500"
+          },
+          {
+            "place": "MonQ Land Resort Negeri Sembilan",
+            "phoneNumber": "016 228 2116"
+          },
+          {
+            "place": "Broga Leisure Homestay Lenggeng, Negeri Sembilan",
+            "phoneNumber": "016 355 9067"
+          },
+          {
+            "place": "Seri Ratu Campsite Port Dickson Negeri Sembilan",
+            "phoneNumber": "011 3549 8660"
+          },
+          {
+            "place": "Tomorrow Village Campsite Kenaboi Negeri Sembilan",
+            "phoneNumber": "016 692 2304"
+          },
+          {
+            "place": "PD Wellness Zone Port Dickson Negeri Sembilan",
+            "phoneNumber": "017 414 8311"
+          },
+          {
+            "place": "D’ Kok Eco Camp Negeri Sembilan",
+            "phoneNumber": "013 237 7228"
+          },
+          {
+            "place": "Buana Kita, Pedas Negeri Sembilan",
+            "phoneNumber": "017 282 4041"
+          },
+          {
+            "place": "Camp Acreage Negeri Sembilan",
+            "phoneNumber": "013 623 2602"
+          },
+          {
+            "place": "PD London Bus Retro Village Port Dickson Negeri Sembilan",
+            "phoneNumber": "017 337 2832"
+          },
+          {
+            "place": "Kebun Chenta Matin Negeri Sembilan",
+            "phoneNumber": "014 516 3637"
+          },
+          {
+            "place": "Ngoi-Ngoi Riverside Camp Negeri Sembilan",
+            "phoneNumber": "011 3251 3375"
+          },
+          {
+            "place": "Temuan Homestay Port Dickson Negeri Sembilan",
+            "phoneNumber": "019 359 5237"
+          },
+          {
+            "place": "Kem Sri Pilah, Kuala Pilah Negeri Sembilan",
+            "phoneNumber": "013 621 9636"
+          },
+          {
+            "place": "Rimba & Woods Campsite Johol Negeri Sembilan",
+            "phoneNumber": "011 2712 6148"
+          },
+          {
+            "place": "PD Mayangsari Campsite Negeri Sembilan",
+            "phoneNumber": "017 414 8311"
+          },
+          {
+            "place": "Rumah Dusun Sungai Mahang, Nilai Negeri Sembilan",
+            "phoneNumber": "019 232 2815"
+          },
+          {
+            "place": "Debuchu Campsite, Sendayan Negeri Sembilan",
+            "phoneNumber": "019 938 7212"
+          },
+          {
+            "place": "D’Hailin Campsite Rembau Negeri Sembilan",
+            "phoneNumber": "013 758 7829"
+          },
+          {
+            "place": "Atomic Rc Campground Johol Negeri Sembilan",
+            "phoneNumber": "019 699 7036"
+          },
+          {
+            "place": "Masha & The Bear Campsite, Rembau",
+            "phoneNumber": "011-8888 0918"
+          }
+        ]
+      },
+      {
+        "state": "MELAKA",
+        "places": [
+          {
+            "place": "Kesang Farm Jasin Melaka",
+            "phoneNumber": "011 2681 3779"
+          },
+          {
+            "place": "Kem Tasik Biru Jasin Melaka",
+            "phoneNumber": "019 891 8696"
+          },
+          {
+            "place": "Asahan Water Theme Park Melaka",
+            "phoneNumber": "011 2618 3477"
+          },
+          {
+            "place": "Seafarer Restaurant & Campground Melaka",
+            "phoneNumber": "06 3152693"
+          },
+          {
+            "place": "Tam’s Durian Farm & Campsite Jasin Melaka",
+            "phoneNumber": "019 741 2883"
+          },
+          {
+            "place": "Bemban Cottage Jasin Melaka",
+            "phoneNumber": "012 702 3855"
+          }
+        ]
+      },
+      {
+        "state": "JOHOR",
+        "places": [
+          {
+            "place": "Skyrim Batu Pahat Johor",
+            "phoneNumber": "019 778 1571"
+          },
+          {
+            "place": "D’onaz Farm Camp, Johor Bahru Johor",
+            "phoneNumber": "011 5716 9806"
+          },
+          {
+            "place": "Ziela Santai Chalet, Tanjung Sedeli Johor",
+            "phoneNumber": "014 516 8920"
+          },
+          {
+            "place": "Bayu Impian Campsite Punggai, Pengerang Johor",
+            "phoneNumber": "012 714 2582"
+          },
+          {
+            "place": "Back To Nature Camp, Mersing, Johor",
+            "phoneNumber": "011 1021 2882"
+          },
+          {
+            "place": "Sunrise Camp, Bandar Penawar Johor",
+            "phoneNumber": "013 705 1559"
+          },
+          {
+            "place": "Star Fish Leisure Farm, Kulai Johor",
+            "phoneNumber": "012 455 2208"
+          },
+          {
+            "place": "Takah Pengkoi Bekok, Segamat Johor",
+            "phoneNumber": "019 659 9316"
+          },
+          {
+            "place": "Tiger Base Camp Tanjung Leman Johor",
+            "phoneNumber": "019 713 7627"
+          },
+          {
+            "place": "Pemberton Campground Kota Tinggi Johor",
+            "phoneNumber": "018 988 2028"
+          },
+          {
+            "place": "Takah Pengkoi Bekok Johor",
+            "phoneNumber": "019 659 9316"
+          },
+          {
+            "place": "Koref Desaru Leisure Farm Kota Tinggi Johor",
+            "phoneNumber": "012 768 3149"
+          },
+          {
+            "place": "Kahang Adventures & Eco Camp Kluang Johor",
+            "phoneNumber": "019 709 3451"
+          },
+          {
+            "place": "Logok Campsite and Farm Johor",
+            "phoneNumber": "013 723 4070"
+          },
+          {
+            "place": "Paksu Chalet & Camp Site Mersing Johor",
+            "phoneNumber": "013 727 2078"
+          },
+          {
+            "place": "El-Dhuha Campsite, Kulai Johor",
+            "phoneNumber": "014 274 0407"
+          },
+          {
+            "place": "Labis Sunrise Farm Segamat Johor",
+            "phoneNumber": "011 1064 3688"
+          },
+          {
+            "place": "Sinar Eco Resort, Pekan Nanas Johor",
+            "phoneNumber": "013 757 2434"
+          },
+          {
+            "place": "D’onaz Farm Camp, Johor Bahru",
+            "phoneNumber": "011 5716 9806"
+          }
+        ]
+      },
+      {
+        "state": "PAHANG",
+        "places": [
+          {
+            "place": "Santai Riverside, Janda Baik Pahang",
+            "phoneNumber": "011 2698 2170 / 012 921 3009"
+          },
+          {
+            "place": "Tanjung Hills, Janda Baik Pahang",
+            "phoneNumber": "017 210 1322"
+          },
+          {
+            "place": "SIR Camping Site, Bentong Pahang",
+            "phoneNumber": "011 1692 8114"
+          },
+          {
+            "place": "Kem Site Sg Pauh, Tanah Rata Pahang",
+            "phoneNumber": "05 491 1384"
+          },
+          {
+            "place": "Campsite Cherry Chalet, Janda Baik Pahang",
+            "phoneNumber": "017 982 9381"
+          },
+          {
+            "place": "Rimba Valley Motor Campsite, Bentong Pahang",
+            "phoneNumber": "017 324 5200"
+          },
+          {
+            "place": "Cozy Leisure farm Bertam Valley, Ringlet Pahang",
+            "phoneNumber": "019 378 3013"
+          },
+          {
+            "place": "Timah Campsite, Sungai Lembing Pahang",
+            "phoneNumber": "016 940 3377"
+          },
+          {
+            "place": "Kem Nemo Pantai Balok Pahang",
+            "phoneNumber": "010 657 9468 / 012 998 9904"
+          },
+          {
+            "place": "Payung Gateway Campsite & RV Park Pantai Cherating Pahang",
+            "phoneNumber": "011 2380 2900"
+          },
+          {
+            "place": "Camp Site Pantai Kempadang Kuantan Pahang",
+            "phoneNumber": "016 953 3908"
+          },
+          {
+            "place": "Kaki Bukit Campsite Pantai Teluk Tongkang, Teluk Cempedak Pahang",
+            "phoneNumber": "010 920 8575"
+          },
+          {
+            "place": "Black Stone Camper Park & RV Kuantan Pahang",
+            "phoneNumber": "017 998 7198"
+          },
+          {
+            "place": "Campstay Sungai Lembing Pahang",
+            "phoneNumber": "012 252 4961"
+          },
+          {
+            "place": "Sungai Pandan Waterfall Camp Site By ROH Kuantan Pahang",
+            "phoneNumber": "019 337 4779 / 017 981 3021"
+          },
+          {
+            "place": "JIWACAMP Campsite Sungai Pandan Kuantan Pahang",
+            "phoneNumber": "018 923 5133"
+          },
+          {
+            "place": "WongGanTeng Campsite, Jerantut Pahang",
+            "phoneNumber": "011 1790 9508 / 019 225 5541"
+          },
+          {
+            "place": "Boutel Orchard Raub Pahang",
+            "phoneNumber": "016 661 3178"
+          },
+          {
+            "place": "Camp ABC Bentong Pahang",
+            "phoneNumber": "013 388 0158"
+          },
+          {
+            "place": "Pantai Sepat Kuantan Kuantan Pahang",
+            "phoneNumber": "(tempat awam)"
+          },
+          {
+            "place": "Lata Lembik Raub Pahang",
+            "phoneNumber": "09 369 7892"
+          },
+          {
+            "place": "Kela Adventure Camp",
+            "phoneNumber": "019 955 1752"
+          },
+          {
+            "place": "Teratak Kak Ju Bentong Pahang",
+            "phoneNumber": "017 689 5687"
+          },
+          {
+            "place": "Pine Valley Villa & Camper Site Tanah Rata Pahang",
+            "phoneNumber": "014 706 3682"
+          },
+          {
+            "place": "ABC Camp, Janda Baik, Pahang",
+            "phoneNumber": "013 388 0158"
+          },
+          {
+            "place": "Zaini Guest House Bentong Pahang",
+            "phoneNumber": "012 777 3601"
+          },
+          {
+            "place": "Hikers Paradise, Cameron Highlands Pahang",
+            "phoneNumber": "017 225 6189"
+          },
+          {
+            "place": "Frieden Campsite Janda Baik Pahang",
+            "phoneNumber": "011 2336 6389"
+          },
+          {
+            "place": "Warisan Campsites Chenor pahang",
+            "phoneNumber": "012 530 7343"
+          },
+          {
+            "place": "YunKai Campsite, Genting Highlands Pahang",
+            "phoneNumber": "016 266 4096"
+          },
+          {
+            "place": "Radiant Retreat, Janda Baik",
+            "phoneNumber": "013 369 7460"
+          },
+          {
+            "place": "D’Rahsia Bayan Chalet, Temerloh Pahang",
+            "phoneNumber": "010 272 7265"
+          },
+          {
+            "place": "Kroni Hutan Campsite Bentong Pahang",
+            "phoneNumber": "018 312 1681"
+          },
+          {
+            "place": "The Somer Campsite, Bentong Pahang",
+            "phoneNumber": "012 223 8606"
+          },
+          {
+            "place": "Griffin Guesthouse Janda Baik Pahang",
+            "phoneNumber": "012 306 1982"
+          },
+          {
+            "place": "Campers Unite Campsite, Cherating Pahang",
+            "phoneNumber": "017 749 0780"
+          },
+          {
+            "place": "Pindo Sea Forest, Cherating Pahang",
+            "phoneNumber": "019 551 0119"
+          },
+          {
+            "place": "Bentong Nature Campsite Bentong Pahang",
+            "phoneNumber": "011 1191 3488"
+          },
+          {
+            "place": "Kiswah Riverview Campsite Temerloh Pahang",
+            "phoneNumber": "017 906 5131"
+          },
+          {
+            "place": "Rainforest Park at Genting Sempah Pahang",
+            "phoneNumber": "016 921 1328"
+          },
+          {
+            "place": "Pondok Waris Bentong Pahang",
+            "phoneNumber": "014 330 9033"
+          },
+          {
+            "place": "Parit Falls Campsite Cameron Highlands Pahang",
+            "phoneNumber": "011 1565 9002"
+          },
+          {
+            "place": "D’Kasai Riverside – monkey rock Bentong Pahang",
+            "phoneNumber": "011 3655 1812"
+          },
+          {
+            "place": "Kuala Lurau Camp Chalet Bentong Pahang",
+            "phoneNumber": "019 933 7380"
+          },
+          {
+            "place": "GLO Durian Farm Karak Pahang",
+            "phoneNumber": "011 1193 0050"
+          },
+          {
+            "place": "Zakka Campsite, Cameron Highlands Pahang",
+            "phoneNumber": "019 723 3188"
+          },
+          {
+            "place": "Camperz Hideout, Bukit Tinggi Pahang",
+            "phoneNumber": "017 200 4987"
+          },
+          {
+            "place": "Willow Tree Cherating Pahang",
+            "phoneNumber": "012 306 5009"
+          },
+          {
+            "place": "Lè Camp Tanarimba Bentong Pahang",
+            "phoneNumber": "011 7303 6579"
+          },
+          {
+            "place": "Luca Camp Bentong Pahang",
+            "phoneNumber": "019 981 9131"
+          },
+          {
+            "place": "Valleyhill Eco Farm, Karak Pahang",
+            "phoneNumber": "013 993 9239"
+          },
+          {
+            "place": "Nature Cameron MintFarm Campsite RInglet Pahang",
+            "phoneNumber": "011 651 56567"
+          },
+          {
+            "place": "CampRED by CampX Malaysia Bentong Pahang",
+            "phoneNumber": "012 377 1848"
+          }
+        ]
+      },
+      {
+        "state": "TERENGGANU",
+        "places": [
+          {
+            "place": "Redang Camp Kuala Terengganu",
+            "phoneNumber": "017 390 6080"
+          },
+          {
+            "place": "D’nest Dungun Escapade Resort Kuala Dungun Terengganu",
+            "phoneNumber": "019 931 6130"
+          },
+          {
+            "place": "Lata Tembakah, Jerteh Terengganu",
+            "phoneNumber": "09 6274155"
+          },
+          {
+            "place": "RainForest Camping Perhentian Island Perhentian Kecil Terengganu",
+            "phoneNumber": "014 796 6399"
+          },
+          {
+            "place": "LongSha Campsite, Pulau Kapas Kuala Terengganu",
+            "phoneNumber": "019 966 2968"
+          },
+          {
+            "place": "Bukit Maras Paragliding and Recreational Park Kuala Terengganu",
+            "phoneNumber": "012 295 6302"
+          },
+          {
+            "place": "Lata Kolam Air Deru Ecopark Jerteh Terengganu",
+            "phoneNumber": "019 693 1662"
+          },
+          {
+            "place": "TWCampstay, Kuala Terengganu",
+            "phoneNumber": "013 989 8545"
+          },
+          {
+            "place": "Merchang Glamping Park, Marang Terengganu",
+            "phoneNumber": "010 860 4793"
+          },
+          {
+            "place": "Marang Eco Village Marang Terengganu",
+            "phoneNumber": "012 777 3601"
+          },
+          {
+            "place": "Whispered Island Campsite Marang Terengganu",
+            "phoneNumber": "013 699 6927"
+          }
+        ]
+      },
+      {
+        "state": "KELANTAN",
+        "places": [
+          {
+            "place": "Sri Nipah Resort, Bachok Kelantan",
+            "phoneNumber": "019 913 5625"
+          },
+          {
+            "place": "Lojing Highlands Campsite Kelantan",
+            "phoneNumber": "010 244 9996"
+          },
+          {
+            "place": "Moonriver Lodge Farmstay, Lojing Kelantan",
+            "phoneNumber": "017 657 1898"
+          },
+          {
+            "place": "Tanah Abah Campsite, Kota Bharu Kelantan",
+            "phoneNumber": "016 223 6342"
+          }
+        ]
+      }
+    ]
+  }
+  
